@@ -1,0 +1,18 @@
+# .NET build output
+bin/
+obj/
+
+# BenchmarkDotNet artifacts
+BenchmarkDotNet.Artifacts/
+
+# dotnet test coverage output
+TestResults/
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# OS
+Thumbs.db
+.DS_Store
